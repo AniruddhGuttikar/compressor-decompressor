@@ -25,7 +25,7 @@ Ensure that you have any latest version of C installed on your system.
     ./compressor
     ```
 
-    This will generate a compressed file named "compressed_file.bin" in the same directory.
+    This will generate a compressed file named "output_file.bin" in the same directory.
 
 5. To decompress the file, run the decompressor:
 
@@ -33,7 +33,7 @@ Ensure that you have any latest version of C installed on your system.
     ./decompressor
     ```
 
-    This will produce the decompressed file named "decompressed_file.txt" in the same directory.
+    This will produce the decompressed file named "file-decompressed.txt" in the same directory.
 
 ## File Structure
 

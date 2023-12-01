@@ -45,18 +45,4 @@ Ensure that you have any latest version of C installed on your system.
 
 Feel free to contribute to the project by opening issues or submitting pull requests.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Acknowledgments
-
-- The heap implementation is based on the concepts learned from various computer science resources.
-
-## Contact
-
-For any inquiries or feedback, please contact [your-email@example.com].
-
----
-
 Happy compressing and decompressing! 🎉

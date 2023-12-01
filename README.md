@@ -43,6 +43,7 @@ Ensure that you have any latest version of C installed on your system.
 
 ## Contributing
 
-Feel free to contribute to the project by opening issues or submitting pull requests.
+Feel free to contribute to the project by opening issues or submitting pull requests. Feel free to
+help me get rid of some horrible memory leaks.
 
 Happy compressing and decompressing! 🎉
